@@ -1,6 +1,6 @@
 # [Material Design Lite](https://appseed.us/ui-kit/material-design-lite)
 
-> A curated list with admin dashboards styped on top of **Material Design Lite** concept - content provided by [AppSeed](https://appseed.us/).
+> A curated list with admin dashboards styped on top of **[Material Design Lite](https://appseed.us/ui-kit/material-design-lite)** concept - content provided by [AppSeed](https://appseed.us/).
 
 <br />
 
@@ -89,5 +89,5 @@ WrapPixel's MaterialPro Bootstrap Lite is one of the best Bootstrap templates fo
 <br />
 
 ---
-[Material Design Lite](https://appseed.us/ui-kit/material-design-lite) - provided by [AppSeed](https://appseed.us) 
+A curated list with product styled with **[Material Design Lite](https://appseed.us/ui-kit/material-design-lite)** - provided by [AppSeed](https://appseed.us) 
 
