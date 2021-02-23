@@ -80,7 +80,7 @@ WrapPixel's MaterialPro Bootstrap Lite is one of the best Bootstrap templates fo
 <br />
 
 - [MaterialPro Lite](http://bit.ly/2ZJuiMR) - product page
-- **[MaterialPro Bootstrap Admin](http://bit.ly/2ZJuiMR) - premium version (more pages & components)**
+- **[MaterialPro Bootstrap Admin](https://bit.ly/2NRHoFb) - premium version (more pages & components)**
 
 <br />
 
