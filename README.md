@@ -22,7 +22,7 @@ The product represents a big suite of front-end developer tools that can help yo
 
 <br />
 
--  [http://bit.ly/2ZEXOU3](https://www.creative-tim.com/product/light-bootstrap-dashboard?AFFILIATE=128200) - product page
+-  [Light Bootstrap Dashboard](http://bit.ly/2ZEXOU3) - product page
 -  **[Light Bootstrap Dashboard Pro](http://bit.ly/2MiMlGA) - premium version (more pages & components)**
 
 <br />
@@ -79,7 +79,7 @@ WrapPixel's MaterialPro Bootstrap Lite is one of the best Bootstrap templates fo
 
 <br />
 
-- [MaterialPro Lite](http://bit.ly/2ZJuiMR)
+- [MaterialPro Lite](http://bit.ly/2ZJuiMR) - product page
 - **[MaterialPro Bootstrap Admin](http://bit.ly/2ZJuiMR) - premium version (more pages & components)**
 
 <br />
