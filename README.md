@@ -4,14 +4,14 @@
 
 <br />
 
-- [Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard?AFFILIATE=128200) - BS4 dashboard template designed to be beautiful and simple.
+- [Light Bootstrap Dashboard](http://bit.ly/2ZEXOU3) - BS4 dashboard template designed to be beautiful and simple.
 - [Material Dashboard Lite](http://material-dashboard-lite.creativeit.io/) - dark-themed [Material Dashboard](https://appseed.us/material-dashboard)
-- [Severny Bootstrap Admin Lite](https://www.wrappixel.com/templates/severny-admin-template/?ref=157) - Free Admin Dashboard Template built on Bootstrap 4
-- [MaterialPro Lite](https://www.wrappixel.com/templates/materialpro-lite/?ref=157) - free template inspired by Google Material Design
+- [Severny Bootstrap Admin Lite](http://bit.ly/3dE1RYP) - Free Admin Dashboard Template built on Bootstrap 4
+- [MaterialPro Lite](http://bit.ly/2ZJuiMR) - free template inspired by Google Material Design
 
 <br />
 
-## [Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard?AFFILIATE=128200)
+## [Light Bootstrap Dashboard](http://bit.ly/2ZEXOU3)
 
 > Design - **Creative-Tim**
 
@@ -22,8 +22,8 @@ The product represents a big suite of front-end developer tools that can help yo
 
 <br />
 
--  [Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard?AFFILIATE=128200) - product page
--  **[Light Bootstrap Dashboard Pro](https://www.creative-tim.com/product/light-bootstrap-dashboard-pro?AFFILIATE=128200) - premium version (more pages & components)**
+-  [http://bit.ly/2ZEXOU3](https://www.creative-tim.com/product/light-bootstrap-dashboard?AFFILIATE=128200) - product page
+-  **[Light Bootstrap Dashboard Pro](http://bit.ly/2MiMlGA) - premium version (more pages & components)**
 
 <br />
 
@@ -50,7 +50,7 @@ Material admin template is absolutely free for commercial usage theme, that uses
 
 <br />
 
-## [Severny Bootstrap Admin Lite](https://www.wrappixel.com/templates/severny-admin-template/?ref=157)
+## [Severny Bootstrap Admin Lite](http://bit.ly/3dE1RYP)
 
 > Design - **WrapPixel**
 
@@ -60,8 +60,8 @@ Serverny is Free Admin Dashboard Template built on Bootstrap 4 responsive framew
 
 <br />
 
-- [Severny Bootstrap Admin Lite](https://www.wrappixel.com/templates/severny-admin-template/?ref=157) - product page
-- **[Severny Bootstrap Admin PRO](https://www.wrappixel.com/templates/severny-admin-template/?ref=157) - premium version (more pages & components)**
+- [Severny Bootstrap Admin Lite](http://bit.ly/3dE1RYP) - product page
+- **[Severny Bootstrap Admin PRO](https://bit.ly/2MdZCQy) - premium version (more pages & components)**
 
 <br />
 
@@ -69,7 +69,7 @@ Serverny is Free Admin Dashboard Template built on Bootstrap 4 responsive framew
 
 <br />
 
-## [MaterialPro Lite](https://www.wrappixel.com/templates/materialpro-lite/?ref=157)
+## [MaterialPro Lite](http://bit.ly/2ZJuiMR)
 
 > Design - **WrapPixel**
 
@@ -79,8 +79,8 @@ WrapPixel's MaterialPro Bootstrap Lite is one of the best Bootstrap templates fo
 
 <br />
 
-- [MaterialPro Lite](https://www.wrappixel.com/templates/materialpro-lite/?ref=157)
-- **[MaterialPro Bootstrap Admin](https://www.wrappixel.com/templates/materialpro/?ref=157) - premium version (more pages & components)**
+- [MaterialPro Lite](http://bit.ly/2ZJuiMR)
+- **[MaterialPro Bootstrap Admin](http://bit.ly/2ZJuiMR) - premium version (more pages & components)**
 
 <br />
 
